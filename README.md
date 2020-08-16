@@ -1,4 +1,4 @@
-# Realtime Face Movement Tracking ![](https://bit.ly/surya-veer-movement-tracking)
+# Realtime Face Movement Tracking 
 90 Lines of code to convert your face movement into keyboard commands.
 
 # Description
@@ -35,4 +35,3 @@ Open any online game on the browser which needs UP-DOWN-LEFT-RIGHT movements fol
 
 ### You can do a lot more things by the small code change.
 
-### ** SUPPORT OPEN SOURCE **
